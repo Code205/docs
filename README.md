@@ -1,5 +1,5 @@
 
-🚀 ** Update on the ETHW - Ethereum Proof-Of-Work Ecosystem! ** 🚀
+# 🚀 ** Update on the ETHW - Ethereum Proof-Of-Work Ecosystem! ** 🚀
 
 
 🔗 ** Bridge **
