@@ -1,8 +1,8 @@
 
-# 🚀 ** Update on the ETHW - Ethereum Proof-Of-Work Ecosystem! ** 🚀
+#  ** Projects Update on the ETHW - Ethereum Proof-Of-Work Ecosystem! ** 
 
 
-🔗 ** Bridge **
+# 🔗  Bridge
 
 ETHW Bridge | https://app.bridgetech.network/ | Bridge between ETHW L1 and L2
 
@@ -20,7 +20,7 @@ SWFT | https://www.allchainbridge.com/ | Cross-chain Swap
 
 
 
-💼 ** Wallet **
+# 💼 ** Wallet **
 
 8. [Wafebox | https://wafebox.com/ | Multi-sig asset management
 
@@ -39,7 +39,7 @@ SWFT | https://www.allchainbridge.com/ | Cross-chain Swap
 15. [Trust Wallet | https://trustwallet.com/ | Wallet
 
 
-💱 ** DEX **
+# 💱 ** DEX **
 
 16. Zergswap | https://zergswap.com/ | DEX on L1 and L2
 
@@ -55,7 +55,7 @@ SWFT | https://www.allchainbridge.com/ | Cross-chain Swap
 
 
 
-🎨 ** NFT Marketplace **
+# 🎨 ** NFT Marketplace **
 
 22. Yayasea | https://yayasea.com/ | NFT Marketplace on L1 and L2
 
@@ -67,7 +67,7 @@ SWFT | https://www.allchainbridge.com/ | Cross-chain Swap
 
 
 
-🛠️ ** Tools **
+# 🛠️ ** Tools **
 
 26. CoinTool | https://cointool.app/chain-tools | Crypto toolbox
 
@@ -79,7 +79,8 @@ SWFT | https://www.allchainbridge.com/ | Cross-chain Swap
 
 30. Gecko Terminal | https://www.geckoterminal.com/ | Crypto Price Charts
 
-🎴 ** NFT / ENS **
+
+# 🎴 ** NFT / ENS **
 
 31. Beatles | https://sikalang.com/ | NFT
 
@@ -105,7 +106,7 @@ MYPOW | https://mypow.io | ENS
 
 
 
-🔧 ** Service **
+# 🔧 ** Service **
 
 41. Antlink | https://antlink.io/ | Oracle network
 
@@ -119,7 +120,7 @@ MYPOW | https://mypow.io | ENS
 
 
 
-🔬 ** Misc **
+# 🔬 ** Misc **
 
 46. ETHW Mine | https://ethwmine.com/ | ETHW Mining Pool
 
